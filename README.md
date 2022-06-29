@@ -4,7 +4,7 @@
 <p>𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 Creative-Lab.pro</p>
 
 <h3><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="15" height="15"> Languages and tools</h3>
-<div>
+<a href="https://github.com/IgorPetrovPRO">	
 	<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">&nbsp; 
 	<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">&nbsp; 
 	<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">&nbsp; 
@@ -21,7 +21,7 @@
 	<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp; 
 	<img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">&nbsp; 
 	
-</div>
+</a>
 
 <h3><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e3.png" width="15" height="15"> Contact me</h3>
 
