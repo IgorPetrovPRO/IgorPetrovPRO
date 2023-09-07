@@ -1,7 +1,6 @@
 <h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30"></h1>
 
 <p><strong>I`am 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛</strong></p>
-<p>𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚘𝚏 Creative-Lab.pro</p>
 
 <h3><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png" width="15" height="15"> Languages and tools</h3>
 <a href="https://github.com/IgorPetrovPRO">	
